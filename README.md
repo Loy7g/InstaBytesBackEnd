@@ -2,6 +2,10 @@
 
 Este é o repositório do projeto.
 
+![Screenshot 2024-11-28 162543](https://github.com/user-attachments/assets/d883b6af-827e-45f5-b142-fac3522bd9f0)
+
+![Screenshot 2024-11-28 162601](https://github.com/user-attachments/assets/b26b867f-3248-4e4b-907b-50e4ad36cb18)
+
 **IMPORTANTE:** É necessário ter o [Node.js](https://nodejs.org/) instalado em seu computador antes de executar os comandos de instalação e execução do projeto. Versão recomendada: v20.x.x.
 E também é importante que você baixe ou clone o arquivo do Front-End: https://github.com/Loy7g/InstaBytesFrontEnd
 
